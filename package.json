@@ -1,0 +1,17 @@
+{
+  "name": "weekly",
+  "version": "1.2.0",
+  "description": "Weekly kozak marketing syf!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "blacck#7313",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.1"
+  }
+} 
